@@ -1,7 +1,7 @@
 {
   "name": "gpt3",
   "version": "0.1.0",
-  "homepage": "https://yungpluxury.github.io/gpt3-project/",
+  "homepage": "https://gilded-sable-ac67c1.netlify.app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
